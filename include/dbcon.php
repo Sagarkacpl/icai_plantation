@@ -1,3 +1,3 @@
 <?php 
-    $db = mysqli_query('localhost','root','','icai_plantation');
+    $db = mysqli_connect('localhost','root','','icai_plantation');
 ?>
