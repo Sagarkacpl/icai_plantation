@@ -187,7 +187,7 @@
 
                 <div class="col-md-12 text-center">
                   <a class="btn btn-info btn-lg font-weight-medium auth-form-btn"
-                    href="registration.html">Registration</a>
+                    href="registration">Registration</a>
                 </div>
 
               </div>
